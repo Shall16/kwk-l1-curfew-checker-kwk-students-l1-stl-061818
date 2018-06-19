@@ -1,0 +1,4 @@
+def curfew_checker_simple (time) <= (time 2=11:00)
+puts "Insert current time #{time}"
+end 
+curfew_checker_simple 
